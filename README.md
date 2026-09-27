@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hey there 
+
+class Developer:
+    name = "Darshu"
+    background = "Software Engineer"
+    languages = ["C#", "Python", "SQL", "JavaScript", "React"]
+    interests = ["RAG", "LLMs", "Agentic AI"]
+    currentlyBuilding: "Document Ingest Pipeline for RAG",
+    currently_learning = ["DSA", "FastAPI", "LangGraph"]
 
 <!--
 **iDarshanaPatil/IDarshanaPatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
